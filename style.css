@@ -448,3 +448,9 @@ article{
 .movie-recom-txt{
   font-size: 1.4rem;
 }
+
+.demo-btn{
+  /* visibility:hidden; */
+  display: none;
+  
+}
